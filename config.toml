@@ -9,7 +9,7 @@ title = "Eddie Webb"
     phone = "+420-733576280"
     profileImage = "/img/sedlak_daniel.jpg"
     email = "daniel@sedlak.biz"
-    description = "Fullstack developer with love for mobile applications as well as IoT."
+    description = "Fullstack developer"
     favicon = "images/favicon.ico"
 
 [[params.handles]]
@@ -24,3 +24,7 @@ title = "Eddie Webb"
 [[params.handles]]
     name = "Twitter"
     link = "https://twitter.com/Daniel_Sedlak98"
+
+[[params.handles]]
+    name = "Linkedin"
+    link = "https://www.linkedin.com/in/daniel-sedlak98/"
